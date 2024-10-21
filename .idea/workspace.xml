@@ -1,18 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eac23e1-cf94-4fa6-9222-e17b8b6cb154" name="Changes" comment="" />
+    <list default="true" id="0eac23e1-cf94-4fa6-9222-e17b8b6cb154" name="Changes" comment="feat: add functional interface">
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/Desafio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/Desafios/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/BinaryOperator/BinaryOperatorExemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/BinaryOperator/BinaryOperatorExemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/BinaryOperator/BinaryOperatorExemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/BinaryOperator/BinaryOperatorExemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Consumer/ConsumerExemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Consumer/ConsumerExemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Consumer/ConsumerExemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Consumer/ConsumerExemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Consumer/ConsumerExemplo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Consumer/ConsumerExemplo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Function/FunctionExemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Function/FunctionExemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Function/FunctionExemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Function/FunctionExemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Predicate/PredicateExemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Predicate/PredicateExemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Predicate/PredicateExemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Predicate/PredicateExemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Predicate/PredicateExemplo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Predicate/PredicateExemplo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Supplier/SupplierExemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Supplier/SupplierExemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional_interface/Supplier/SupplierExemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional_interface/Exemplos/Supplier/SupplierExemplo2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;klingeroliveira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/klingeroliveira/stream_java_api.git&quot;,
+    &quot;accountId&quot;: &quot;32ebc42d-c417-43cd-989c-35e50bef5df8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2n8Sz2DcGzCJNadVUPslyZXmMQv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +78,116 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Desafio1.executor": "Run",
+    "Application.Desafio10.executor": "Run",
+    "Application.Desafio11.executor": "Run",
+    "Application.Desafio12.executor": "Run",
+    "Application.Desafio13.executor": "Run",
+    "Application.Desafio14.executor": "Run",
+    "Application.Desafio15.executor": "Run",
+    "Application.Desafio16.executor": "Run",
+    "Application.Desafio17.executor": "Run",
+    "Application.Desafio18.executor": "Run",
+    "Application.Desafio19.executor": "Run",
+    "Application.Desafio2.executor": "Run",
+    "Application.Desafio3.executor": "Run",
+    "Application.Desafio4.executor": "Run",
+    "Application.Desafio5.executor": "Run",
+    "Application.Desafio6.executor": "Run",
+    "Application.Desafio7.executor": "Run",
+    "Application.Desafio8.executor": "Run",
+    "Application.Desafio9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Cursos/DIO/Claro_Java_Spring/collections-java-api",
     "onboarding.tips.debug.path": "C:/Cursos/DIO/Claro_Java_Spring/stream_java_api/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Cursos\DIO\Claro_Java_Spring\stream_java_api\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="functional_interface.Desafios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Desafio19">
+    <configuration name="Desafio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.Desafios.Desafio14" />
+      <module name="stream_java_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.Desafios.Desafio16" />
+      <module name="stream_java_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.Desafios.Desafio17" />
+      <module name="stream_java_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.Desafios.Desafio18" />
+      <module name="stream_java_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.Desafios.Desafio19" />
+      <module name="stream_java_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desafio19" />
+        <item itemvalue="Application.Desafio16" />
+        <item itemvalue="Application.Desafio18" />
+        <item itemvalue="Application.Desafio17" />
+        <item itemvalue="Application.Desafio14" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +197,20 @@
       <option name="presentableId" value="Default" />
       <updated>1728353469632</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: add functional interface">
+      <option name="closed" value="true" />
+      <created>1728353690272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728353690272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add functional interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add functional interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -46,6 +220,10 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

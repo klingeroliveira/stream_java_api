@@ -1,4 +1,4 @@
-package functional_interface.Function;
+package functional_interface.Exemplos.Function;
 
 import java.util.Arrays;
 import java.util.List;

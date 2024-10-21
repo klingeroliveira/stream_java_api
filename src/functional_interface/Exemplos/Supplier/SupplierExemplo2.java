@@ -1,4 +1,4 @@
-package functional_interface.Supplier;
+package functional_interface.Exemplos.Supplier;
 
 import java.util.ArrayList;
 import java.util.List;

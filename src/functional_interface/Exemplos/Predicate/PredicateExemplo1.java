@@ -1,4 +1,4 @@
-package functional_interface.Predicate;
+package functional_interface.Exemplos.Predicate;
 
 import java.util.Arrays;
 import java.util.List;
